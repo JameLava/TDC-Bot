@@ -87,4 +87,4 @@ def buildNewSearchTerm(jsonData): # creates a search term object from json data
 
     return SearchData(site, prefix)
 
-client.run('your token here')
+client.run('MzYwNTkyNDEwMDc5NjU3OTg5.DKi0Vw.QiPozT9kNYLsvZ_1r08S53ej02k')

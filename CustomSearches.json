@@ -1,13 +1,18 @@
 [
     {
-        "site" : "https://www.examplewebsite",
-        "prefix" : "Example.com : ",
+        "site" : "https://www.erowid.org/experiences/",
+        "prefix" : "ErowidExperienceVault: ",
         "requiredTerms" : []
     },
     {
-        "site" : "https://www.examplewebsite2",
-        "prefix" : "Example2.com : ",
-        "requiredTerms" : ["Example Required Phrase"]
+        "site" : "https://www.youtube.com/",
+        "prefix" : "TDC : ",
+        "requiredTerms" : ["The Drug Classroom"]
+    },
+    {
+        "site" : "https://www.erowid.org/experiences/' ,'ErowidExperienceVault: ",
+        "prefix" : "Erowid Experience Vaults: ",
+        "requiredTerms" : []
     }
 ]
 
