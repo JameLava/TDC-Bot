@@ -1,0 +1,16 @@
+[
+    {
+        "site" : "https://www.examplewebsite",
+        "prefix" : "Example.com : ",
+        "requiredTerms" : []
+    },
+    {
+        "site" : "https://www.examplewebsite2",
+        "prefix" : "Example2.com : ",
+        "requiredTerms" : ["Example Required Phrase"]
+    }
+]
+
+
+
+
